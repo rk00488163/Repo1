@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 40C7-300B
+
+ Directory of C:\Users\rk00488163\Desktop\MyProject
+
+31-03-2017  23:49    <DIR>          .
+31-03-2017  23:49    <DIR>          ..
+31-03-2017  23:49                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  54,727,770,112 bytes free
